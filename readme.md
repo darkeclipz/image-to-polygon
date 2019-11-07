@@ -1,0 +1,1 @@
+[https://darkeclipz.github.io/image-to-polygon/Polygon%20Extraction%20from%20Images.html](Convex Polygon Extraction from Images)
